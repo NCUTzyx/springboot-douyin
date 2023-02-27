@@ -1,0 +1,10 @@
+com\zyx\interceptor\PassportInterceptor.class
+com\zyx\Application.class
+com\zyx\config\Knife4jConfig.class
+com\zyx\controller\VlogController.class
+com\zyx\controller\UserInfoController.class
+com\zyx\config\MinIOConfig.class
+com\zyx\interceptor\UserAccessInterceptor.class
+com\zyx\controller\PassPortController.class
+com\zyx\config\InterceptorConfig.class
+com\zyx\controller\FileController.class

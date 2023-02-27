@@ -1,0 +1,12 @@
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\mapper\UsersMapper.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\mybatis\utils\GeneratorDisplay.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\pojo\Fans.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\pojo\MyLikedVlog.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\pojo\Vlog.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\pojo\Comment.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\pojo\Users.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\mapper\VlogMapper.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\my\mapper\MyMapper.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\mapper\CommentMapper.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\mapper\FansMapper.java
+D:\JavaSE\SpringBoot\douyin\mybatis-generator-database\src\main\java\com\zyx\mapper\MyLikedVlogMapper.java

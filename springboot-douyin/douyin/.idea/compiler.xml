@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-generator-database" />
+        <module name="douyin-api" />
+        <module name="douyin-mapper" />
+        <module name="douyin-model" />
+        <module name="douyin-common" />
+        <module name="douyin-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="douyin" options="" />
+      <module name="douyin-api" options="-parameters" />
+      <module name="douyin-common" options="-parameters" />
+      <module name="douyin-mapper" options="-parameters" />
+      <module name="douyin-model" options="-parameters" />
+      <module name="douyin-service" options="-parameters" />
+    </option>
+  </component>
+</project>

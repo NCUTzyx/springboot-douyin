@@ -1,0 +1,7 @@
+com\zyx\mapper\FansMapper.class
+com\zyx\mapper\VlogMapper.class
+com\zyx\mapper\MyLikedVlogMapper.class
+com\zyx\mapper\VlogMapperCustom.class
+com\zyx\mapper\CommentMapper.class
+com\zyx\my\mapper\MyMapper.class
+com\zyx\mapper\UsersMapper.class

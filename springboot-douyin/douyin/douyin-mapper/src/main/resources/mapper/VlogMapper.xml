@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.zyx.mapper.VlogMapper" >
+  <resultMap id="BaseResultMap" type="com.zyx.pojo.Vlog" >
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" property="id" jdbcType="VARCHAR" />
+    <result column="vloger_id" property="vloger_id" jdbcType="VARCHAR" />
+    <result column="url" property="url" jdbcType="VARCHAR" />
+    <result column="cover" property="cover" jdbcType="VARCHAR" />
+    <result column="title" property="title" jdbcType="VARCHAR" />
+    <result column="width" property="width" jdbcType="INTEGER" />
+    <result column="height" property="height" jdbcType="INTEGER" />
+    <result column="like_counts" property="like_counts" jdbcType="INTEGER" />
+    <result column="comments_counts" property="comments_counts" jdbcType="INTEGER" />
+    <result column="is_private" property="is_private" jdbcType="INTEGER" />
+    <result column="created_time" property="created_time" jdbcType="TIMESTAMP" />
+    <result column="updated_time" property="updated_time" jdbcType="TIMESTAMP" />
+  </resultMap>
+</mapper>

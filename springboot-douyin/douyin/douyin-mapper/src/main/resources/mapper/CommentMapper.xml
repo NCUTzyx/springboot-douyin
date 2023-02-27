@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.zyx.mapper.CommentMapper" >
+  <resultMap id="BaseResultMap" type="com.zyx.pojo.Comment" >
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" property="id" jdbcType="VARCHAR" />
+    <result column="vloger_id" property="vloger_id" jdbcType="VARCHAR" />
+    <result column="father_comment_id" property="father_comment_id" jdbcType="VARCHAR" />
+    <result column="vlog_id" property="vlog_id" jdbcType="VARCHAR" />
+    <result column="comment_user_id" property="comment_user_id" jdbcType="VARCHAR" />
+    <result column="content" property="content" jdbcType="VARCHAR" />
+    <result column="like_counts" property="like_counts" jdbcType="INTEGER" />
+    <result column="create_time" property="create_time" jdbcType="TIMESTAMP" />
+  </resultMap>
+</mapper>

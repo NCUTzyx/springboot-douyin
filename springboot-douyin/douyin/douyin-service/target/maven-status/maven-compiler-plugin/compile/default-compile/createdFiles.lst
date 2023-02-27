@@ -1,0 +1,5 @@
+com\zyx\service\VlogService.class
+com\zyx\config\BaseInfoProperties.class
+com\zyx\service\Impl\UserServiceImpl.class
+com\zyx\service\Impl\VlogServiceImpl.class
+com\zyx\service\UserService.class
